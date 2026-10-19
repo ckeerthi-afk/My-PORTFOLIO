@@ -1,0 +1,10 @@
+{
+  "description": "This interactive portfolio showcases the design philosophy and work of a UX/Product Designer, emphasizing clarity in complex systems through engaging visuals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
